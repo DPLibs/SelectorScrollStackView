@@ -1,0 +1,24 @@
+PODS:
+  - ScrollStackView (1.0.3)
+  - SelectorScrollStackView (1.0.0):
+    - ScrollStackView
+
+DEPENDENCIES:
+  - ScrollStackView
+  - SelectorScrollStackView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - ScrollStackView
+
+EXTERNAL SOURCES:
+  SelectorScrollStackView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ScrollStackView: a9271a55368b9a08f48268208de687af6962113f
+  SelectorScrollStackView: 225af702599efe4857d29614edb11e840369c3a0
+
+PODFILE CHECKSUM: 06ee7944228ac580a3e1aa0cc9442e436a75a63b
+
+COCOAPODS: 1.8.4
