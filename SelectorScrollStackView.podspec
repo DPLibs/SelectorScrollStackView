@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name             = 'SelectorScrollStackView'
   s.version          = '1.0.0'
   s.summary          = 'Selector Scroll Stack View'
-  s.description      = 'A simple utility'
+  s.description      = 'A simple utility Selector Scroll Stack View. Show example'
   s.homepage         = 'https://github.com/DPLibs/SelectorScrollStackView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Dmitriy Polyakov' => 'dmitriyap11@gmail.com' }
